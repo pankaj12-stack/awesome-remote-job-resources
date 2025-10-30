@@ -219,8 +219,6 @@ Found a great remote resource? Want to add a job board or tool? Contributions ar
 
 - **Website:** [kickstartremote.com](https://kickstartremote.com)
 - **Advice & Guides:** [kickstartremote.com/advice](https://kickstartremote.com/advice)
-- **Twitter:** [@kickstartremote](https://twitter.com/kickstartremote) *(add your actual handle)*
-
 ---
 
 ## 📝 License
