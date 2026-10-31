@@ -98,6 +98,12 @@ Follow hashtags: `#RemoteWork` `#DigitalNomad` `#RemoteJobs` `#WorkFromAnywhere`
 
 ## Tools & Services
 
+### 🔎 Job Search Tools
+
+- **[JobEmerge](https://www.jobemerge.work)** - AI career copilot: job-fit test,
+  19-language resume translator, Markdown editor. Freemium; optional paid access
+  is 9.90 USD one-time for 7 days, with no auto-renewal.
+
 ### 💼 Employer of Record (EOR) Services
 
 These help companies hire internationally:
